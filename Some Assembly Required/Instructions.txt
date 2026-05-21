@@ -1,0 +1,1 @@
+These are all .py games so find a Python compiler, or compile them in a terminal to play them.
