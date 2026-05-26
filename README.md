@@ -5,3 +5,4 @@ Simply unzip all of the files, then move all of the zip archives to a folder nam
 
 All Credit to the original emulator and game owners, I was just the guy who put it all together.
 
+Perfect for playing games on a school Chromebook (that's where I built this all)
